@@ -1,0 +1,11 @@
+# Zephyr build artifacts
+build/
+*.log
+*.o
+*.elf
+*.map
+*.bin
+*.hex
+*.lst
+.idea/
+.vscode/
