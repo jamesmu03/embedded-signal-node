@@ -1,0 +1,10 @@
+period_cycles: avg=32 min=0 max=64 count=1001 | us: avg=976 min=0 max=1953
+period_cycles: avg=32 min=0 max=64 count=1001 | us: avg=976 min=0 max=1953
+period_cycles: avg=32 min=0 max=64 count=1001 | us: avg=976 min=0 max=1953
+period_cycles: avg=32 min=0 max=64 count=1001 | us: avg=976 min=0 max=1953
+period_cycles: avg=32 min=0 max=64 count=1001 | us: avg=976 min=0 max=1953
+period_cycles: avg=32 min=0 max=64 count=1001 | us: avg=976 min=0 max=1953
+period_cycles: avg=32 min=0 max=64 count=1001 | us: avg=976 min=0 max=1953
+period_cycles: avg=32 min=0 max=64 count=1001 | us: avg=976 min=0 max=1953
+period_cycles: avg=32 min=0 max=64 count=1001 | us: avg=976 min=0 max=1953
+period_cycles: avg=32 min=0 max=64 count=1001 | us: avg=976 min=0 max=1953
