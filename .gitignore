@@ -1,11 +1,30 @@
-# Zephyr build artifacts
+# Zephyr build directory
 build/
-*.log
+
+# Generated files
 *.o
+*.a
 *.elf
-*.map
-*.bin
 *.hex
+*.bin
+*.map
 *.lst
-.idea/
+
+# IDE files
 .vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
